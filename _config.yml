@@ -3,9 +3,9 @@ title: Angle_Blog
 SEOTitle: Angle_Blog
 header-img: img/home-bg.jpg
 email: Angle_Blog@gmail.com
-description: "这里是 @Angle 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
-keyword: "Angle, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
-url: "https://angle.me" # your host, for absolute URL
+description: "这里是 @Angle 的个人博客，与你一起发现更大的世界 | 悟已往之不谏，知来者之可追"
+keyword: "Angle, Angle Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
+url: "https://angleja.github.io" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -15,7 +15,7 @@ future: true
 RSS: false
 weibo_username: Angle
 zhihu_username: Angle
-github_username: Angle
+github_username: angleja
 twitter_username: Angle
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
@@ -59,7 +59,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: hux
+disqus_username: noname
 
 # Netease settings
 netease_comment: false
@@ -70,11 +70,11 @@ netease_comment: false
 
 # Google Analytics
 ga_track_id: "UA-49627206-1" # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_domain: angleja.github.io
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
+sidebar-about-description: "悟已往之不谏，知来者之可追 <br> Work @Nothing"
 #sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
@@ -91,6 +91,7 @@ page-mathjax: false
 # Friends
 friends:
   [
+    { title: "阮一峰的网络日志", href: "http://www.ruanyifeng.com/blog/" },
     { title: "乱序（Midare）", href: "http://mida.re/" },
     { title: "Ebn Zhang", href: "https://ebnbin.dev/" },
     { title: "Kun Qian", href: "http://kunq.me" },
